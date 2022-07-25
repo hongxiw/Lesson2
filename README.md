@@ -6,4 +6,4 @@ Continuing to teach a friend, I made some sample code to demonstrate basic Strin
 The previous lesson can be found [here](https://github.com/hongxiw/Lesson1).
 
 ## Next Lesson
-The next lesson can be found [here](https://github.com/hongxiw) when it is created
+The next lesson can be found [here](https://github.com/hongxiw/Lesson3).
